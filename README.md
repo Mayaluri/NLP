@@ -5,7 +5,7 @@ This project demonstrates various Natural Language Processing (NLP) preprocessin
 
 **The code has been uploaded to this repository — feel free to explore and run it on your own datasets!**
 
-** Key NLP Preprocessing Steps
+**Key NLP Preprocessing Steps**
 ## Text Extraction:
 Extracts raw text from structured or unstructured formats (e.g., PDFs, HTML, DOCX). It’s the starting point to get the data into a processable form.
 
