@@ -1,4 +1,4 @@
-# NLP
+**NATURAL LANGUAGE PROCESSING**
 
 ## NLP Text Preprocessing Project – Overview
 This project demonstrates various Natural Language Processing (NLP) preprocessing techniques, implemented in Python. Each step plays a critical role in preparing unstructured text for downstream NLP tasks like classification, sentiment analysis, and information extraction.
