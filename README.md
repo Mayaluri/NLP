@@ -41,5 +41,5 @@ Reduces words to their root form by chopping off suffixes (e.g., "running" → "
 Lemmatization:
 Converts words to their base or dictionary form (e.g., "am", "is", "are" → "be") using vocabulary and grammar context. It’s more accurate than stemming.
 
-🧪 Tools/Libraries Used
+🧪 Tools/Libraries Used:
 NLTK, spaCy, TextBlob, re, unicodedata, translate, wordnet, etc.
